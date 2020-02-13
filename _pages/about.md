@@ -16,11 +16,11 @@ March 2010 - December 2019
 May 2008 - March 2010
 
 ## Credits
-1. Fight Night Round 4
-2. Need for Speed: World Online
-3. Club Penguin
-4. Club Penguin Sled Racer
-5. Club Penguin Island
+* Fight Night Round 4
+* Need for Speed: World Online
+* Club Penguin
+* Club Penguin Sled Racer
+* Club Penguin Island
 
 ## Education
 *Art Institute of Vancouver*{: style="color: lightblue"} — Diploma, Visual and Game Programming  
