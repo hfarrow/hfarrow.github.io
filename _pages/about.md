@@ -1,17 +1,27 @@
 ---
 title: About
 permalink: /about/
+classes: wide
 ---
+Heath is a well rounded developer with leadership experience in the games industry and has worked on mobile, console, desktop, and web games. His expertise applies to a wide range of roles required for developing games, tools, and backend services. Heath has a keen eye for detail and strives to deliver the best possible experience to players or end users. He takes pride in his work and enjoys the process of solving difficult problems.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Experience
+*Blizzard Entertainment*{: style="color: lightblue"}, Irvine — Lead Software Engineer  
+January 2019 - PRESENT
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+*Disney Online Studios Canada*{: style="color: lightblue"}, Kelowna — Lead Software Engineer  
+March 2010 - December 2019
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+*Electronic Arts Canada / Black Box, Burnaby*{: style="color: lightblue"} — Jr Software Engineer  
+May 2008 - March 2010
 
+## Credits
+1. Fight Night Round 4
+2. Need for Speed: World Online
+3. Club Penguin
+4. Club Penguin Sled Racer
+5. Club Penguin Island
 
-[jekyll-organization]: https://github.com/jekyll
+## Education
+*Art Institute of Vancouver*{: style="color: lightblue"} — Diploma, Visual and Game Programming  
+September 2006 - March 2008, Burnaby

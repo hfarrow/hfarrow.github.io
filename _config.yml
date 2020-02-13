@@ -29,14 +29,15 @@ remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-gist
 
 # Additional Minimal Mistakes Settings
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 include: ["_pages"]
 
-# TODO requires plugin
-# paginate: 5
-# paginate_path: /page:num/
+paginate: 5
+paginate_path: /page:num/
 
 search: true
 
