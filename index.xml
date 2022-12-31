@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Heath Farrow .dev</title>
+    <link>https://heathfarrow.dev/</link>
+    <description>Recent content on Heath Farrow .dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2022 22:37:08 -0800</lastBuildDate><atom:link href="https://heathfarrow.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://heathfarrow.dev/posts/hello/</link>
+      <pubDate>Fri, 30 Dec 2022 22:37:08 -0800</pubDate>
+      
+      <guid>https://heathfarrow.dev/posts/hello/</guid>
+      <description>WIP.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

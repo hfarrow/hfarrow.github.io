@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Heath Farrow .dev</title>
+    <link>https://heathfarrow.dev/tags/</link>
+    <description>Recent content in Tags on Heath Farrow .dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2022 22:37:08 -0800</lastBuildDate><atom:link href="https://heathfarrow.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag</title>
+      <link>https://heathfarrow.dev/tags/tag/</link>
+      <pubDate>Fri, 30 Dec 2022 22:37:08 -0800</pubDate>
+      
+      <guid>https://heathfarrow.dev/tags/tag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
