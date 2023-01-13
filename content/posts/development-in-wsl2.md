@@ -64,7 +64,7 @@ Set-ExecutionPolicy AllSigned
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ~~~
 
-## Install Greenshot
+## Greenshot
 
 [Greenshot](https://getgreenshot.org/) is a wonderful application for capturing, editing, and annotating screenshots. It
 runs in the background and you can map your print screen button to use it to capture a screen shot. Pressing the mapped
@@ -77,6 +77,19 @@ choco install greenshot
 ~~~
 
 ![](greenshot-preview.png)
+
+## ScreenToGif
+
+[ScreenToGif](https://www.screentogif.com/) is a handy way to quickly record a region of the screen to a `.gif`.
+
+Install ScreenToGif through Chocolatey in Powershell (admin):
+~~~
+choco install ScreenToGif
+~~~
+
+The following animation was recorded and saved by ScreenToGif. The first static image shows the region to be recorded.
+![](ScreenToGif-recording-setup.png)
+![](ScreenToGif-example.gif)
 
 ## Setup Windows Terminal
 
