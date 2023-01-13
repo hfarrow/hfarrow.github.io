@@ -6,22 +6,22 @@
     <description>Recent content in Tags on Heath Farrow .dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://heathfarrow.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://heathfarrow.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WSL</title>
+      <link>https://heathfarrow.dev/tags/wsl/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heathfarrow.dev/tags/wsl/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>meta</title>
       <link>https://heathfarrow.dev/tags/meta/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://heathfarrow.dev/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WSL</title>
-      <link>https://heathfarrow.dev/tags/wsl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://heathfarrow.dev/tags/wsl/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,16 @@
     <description>Recent content on Heath Farrow .dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://heathfarrow.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://heathfarrow.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development in WSL2</title>
+      <link>https://heathfarrow.dev/posts/development-in-wsl2/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heathfarrow.dev/posts/development-in-wsl2/</guid>
+      <description>Setting up my development environment within WSL2</description>
+    </item>
+    
     <item>
       <title>Hello, World!</title>
       <link>https://heathfarrow.dev/posts/hello/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://heathfarrow.dev/posts/hello/</guid>
       <description>Welcome, and who am I?</description>
-    </item>
-    
-    <item>
-      <title>Development in WSL2</title>
-      <link>https://heathfarrow.dev/posts/development-in-wsl2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://heathfarrow.dev/posts/development-in-wsl2/</guid>
-      <description>Setting up my development environment within WSL2</description>
     </item>
     
     
