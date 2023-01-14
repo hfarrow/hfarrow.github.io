@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://heathfarrow.dev/posts/development-in-wsl2/</loc>
-    <lastmod>2023-01-07T07:17:29-08:00</lastmod>
+    <loc>https://heathfarrow.dev/posts/development-with-neovim/</loc>
+    <lastmod>2023-01-13T17:28:44-08:00</lastmod>
   </url><url>
     <loc>https://heathfarrow.dev/</loc>
-    <lastmod>2023-01-07T07:17:29-08:00</lastmod>
+    <lastmod>2023-01-13T17:28:44-08:00</lastmod>
   </url><url>
     <loc>https://heathfarrow.dev/posts/</loc>
-    <lastmod>2023-01-07T07:17:29-08:00</lastmod>
+    <lastmod>2023-01-13T17:28:44-08:00</lastmod>
+  </url><url>
+    <loc>https://heathfarrow.dev/posts/development-in-wsl2/</loc>
+    <lastmod>2023-01-13T05:43:47-08:00</lastmod>
   </url><url>
     <loc>https://heathfarrow.dev/tags/</loc>
-    <lastmod>2023-01-07T07:17:29-08:00</lastmod>
+    <lastmod>2023-01-13T05:43:47-08:00</lastmod>
   </url><url>
     <loc>https://heathfarrow.dev/tags/wsl/</loc>
-    <lastmod>2023-01-07T07:17:29-08:00</lastmod>
+    <lastmod>2023-01-13T05:43:47-08:00</lastmod>
   </url><url>
     <loc>https://heathfarrow.dev/posts/hello/</loc>
     <lastmod>2023-01-07T07:16:43-08:00</lastmod>
