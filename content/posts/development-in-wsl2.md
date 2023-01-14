@@ -16,8 +16,6 @@ draft: false
 # vim.opt_local.formatoptions:append('nt')
 ---
 
-## Intro
-
 Not too long ago, I decided to jump back into hobby development. I had just upgraded my PC and it was an opportunity for
 a fresh start. I considered what type of projects I wanted to work on and what development environment I would focus on.
 I decided to focus development in Linux. I've dual booted Windows and Linux in the past but I wasn't interested in doing
