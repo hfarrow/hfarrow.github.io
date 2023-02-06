@@ -341,7 +341,7 @@ You will need to install the WSL plugin and read about how to use it.
 Here are several tools or dependencies I like to start with.
 ~~~
 sudo apt install bat git-extras git-lfs glances ripgrep tldr tree gcc \
-  g++ clang ninja-build sqlite3 libsqlite3-dev
+  g++ clang ninja-build sqlite3 libsqlite3-dev lld zip unzip
 ~~~
 
 - [bat](https://github.com/sharkdp/bat): "A cat(1) clone with syntax highlighting and Git integration."
