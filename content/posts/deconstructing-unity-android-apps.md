@@ -2,7 +2,7 @@
 title: "Deconstructing Unity Android Apps"
 date: 2023-02-09T00:00:00-00:00
 lastmod: 2023-02-09T00:00:00-00:00
-tags: []
+tags: ['unity', 'android']
 description: "Analyzing a deconstructed Unity Android application."
 draft: false
 # cover:

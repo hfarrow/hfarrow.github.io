@@ -2,7 +2,7 @@
 title: "Development with Neovim"
 date: 2023-01-13T05:44:24-08:00
 #lastmod: 2023-01-13T05:44:24-08:00
-tags: []
+tags: ['neovim']
 description: "A demonstration of development with Neovim and additional plugins."
 showtoc: true
 draft: false
@@ -26,7 +26,7 @@ the plugins provide functionality in:
   - Completions and Snippets
   - Buffer and Project Navigation
   - Search
-  - Display and Diagonstics
+  - Display and Diagnostics
   - Git
   - Embedded Terminals
   - Theme
