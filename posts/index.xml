@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Heath Farrow .dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://heathfarrow.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://heathfarrow.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding Unity Bugs While Profiling Memory</title>
+      <link>https://heathfarrow.dev/posts/finding-unity-bugs-while-profiling-memory/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heathfarrow.dev/posts/finding-unity-bugs-while-profiling-memory/</guid>
+      <description>Humans program bugs. Humans create your commercial game engine. Sometimes you stumble upon those bugs.</description>
+    </item>
+    
     <item>
       <title>Deconstructing Unity Android Apps</title>
       <link>https://heathfarrow.dev/posts/deconstructing-unity-android-apps/</link>

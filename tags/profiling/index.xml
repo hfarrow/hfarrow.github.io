@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>profiling on Heath Farrow .dev</title>
+    <link>https://heathfarrow.dev/tags/profiling/</link>
+    <description>Recent content in profiling on Heath Farrow .dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://heathfarrow.dev/tags/profiling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding Unity Bugs While Profiling Memory</title>
+      <link>https://heathfarrow.dev/posts/finding-unity-bugs-while-profiling-memory/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heathfarrow.dev/posts/finding-unity-bugs-while-profiling-memory/</guid>
+      <description>Humans program bugs. Humans create your commercial game engine. Sometimes you stumble upon those bugs.</description>
+    </item>
+    
+  </channel>
+</rss>

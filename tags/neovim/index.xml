@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>neovim on Heath Farrow .dev</title>
+    <link>https://heathfarrow.dev/tags/neovim/</link>
+    <description>Recent content in neovim on Heath Farrow .dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2023 05:44:24 -0800</lastBuildDate><atom:link href="https://heathfarrow.dev/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development with Neovim</title>
+      <link>https://heathfarrow.dev/posts/development-with-neovim/</link>
+      <pubDate>Fri, 13 Jan 2023 05:44:24 -0800</pubDate>
+      
+      <guid>https://heathfarrow.dev/posts/development-with-neovim/</guid>
+      <description>A demonstration of development with Neovim and additional plugins.</description>
+    </item>
+    
+  </channel>
+</rss>
