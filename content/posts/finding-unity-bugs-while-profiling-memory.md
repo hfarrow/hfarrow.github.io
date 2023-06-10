@@ -260,7 +260,7 @@ and `OnTransformParentChanged`, seen below.
 When I looked at these two methods, I quickly became suspicious of `OnTransformParentChanged`. It never calls 
 `UnregisterGraphicForCanvas`. Could that be the bug? Think back to the `SampleScene` and you will remember the button 
 that changes the parent of the image from `CanvasA` to `CanvasB`. That is of course to test my suspicion of this code. 
-Sure enough, after re-parenting the image, the image is unregistered from it's old canvas before being registered to 
+Sure enough, after re-parenting the image, the image is not unregistered from its old canvas before being registered to 
 its new canvas.
 
 I took a look at this class in a version of the Editor where this had been fixed. For this bug, they didn't make a 
